@@ -3,11 +3,9 @@
 install_msg="You going to install grub theme. Do you want to CONTINUE? (Y/n)"
 installatin_canceled_msg="Installation canceled"
 grub_path=/boot/grub
-# grub_path=/home/jnogales/develop/temp/grub_test
 themes_path=$grub_path/themes
 slimbook_prox_theme_path=$themes_path/slimbook_prox
 grub_cgf_path=/etc/default/grub
-# grub_cfg_path=/home/jnogales/develop/temp/grub_test/cfg/grub
 
 # set -x			# activate debugging from here
 
