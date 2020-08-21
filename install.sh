@@ -61,15 +61,6 @@ then
     sudo mkdir $themes_path
 fi
 
-################
-if [ -d $slimbook_prox_theme_path ]
-then
-    echo "slimbook_prox_theme_path exists= $slimbook_prox_theme_path"
-else
-    echo "slimbook_prox_theme_path NOT exists= $slimbook_prox_theme_path"
-fi
-################
-
 #slimbook_prox theme path
 if [ -d $slimbook_prox_theme_path ]
 then
