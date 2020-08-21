@@ -1,0 +1,2 @@
+GRUB_GFXMODE=1920x1080x32
+GRUB_THEME="/boot/grub/themes/slimbook_prox/theme.txt"

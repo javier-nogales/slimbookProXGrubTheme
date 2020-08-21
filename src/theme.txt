@@ -9,12 +9,12 @@ terminal-font: "Open Sans Regular 24"
 #terminal-height: "100%"
 #terminal-border: "0"
 + image {
-	file = slimbook.png
+	file = images/slimbook.png
 	left = 50%-322
 	top = 108
 }
 + image {
-	file = prox.png
+	file = images/prox.png
 	left = 50%-82
 	top = 20
 }
@@ -47,9 +47,9 @@ terminal-font: "Open Sans Regular 24"
 	item_height = 90
 	item_spacing = 24
 	item_color = "#ddd"
-	item_pixmap_style = "item_*.png"
+	item_pixmap_style = "pixmap/item_*.png"
 	selected_item_color = "#fff"
-	selected_item_pixmap_style = "selected_*.png"
+	selected_item_pixmap_style = "pixmap/selected_*.png"
 
 }
 
